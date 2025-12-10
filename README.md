@@ -17,6 +17,3 @@ Building towards **Cloud Security Architecture**.
 
 ### Current Work
 * **Learning:** Advanced Network Security, Cloud Architecture patterns.
-
----
-[Email](ufukulaserdem@gmail.com) | [LinkedIn](https://linkedin.com/in/ufukulaserdem)
