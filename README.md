@@ -11,7 +11,7 @@ Building towards **Cloud Security Architecture**.
 | Domain | Tools |
 | :--- | :--- |
 | **Languages** | Python, C, C++, SQL |
-| **System** | Linux (Fedora), Bash/Shell Scripting |
+| **System** | Linux, Bash/Shell Scripting |
 | **DevOps/Cloud** | Docker, Git, Microsoft Azure |
 | **Tools** | Vim/Neovim, Wireshark |
 
