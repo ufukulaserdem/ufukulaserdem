@@ -12,19 +12,19 @@ I don't just use tools; I build them. Currently focused on **Cloud Security**, *
 
 ---
 
-### 💻 The Arsenal
+### 💻 Technical Stack
 
-| Domain | Stack |
+| Domain | Technologies |
 | :--- | :--- |
-| **Core** | ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c%2B%2B) ![C](https://img.shields.io/badge/-C-black?style=flat&logo=c) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat&logo=assembly) |
-| **System** | ![Linux](https://img.shields.io/badge/-Linux_Kernel-black?style=flat&logo=linux) ![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash) ![eBPF](https://img.shields.io/badge/-eBPF-black?style=flat) |
-| **Cloud & Ops** | ![AWS](https://img.shields.io/badge/-AWS-black?style=flat&logo=amazon-aws) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) |
-| **Security** | ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat&logo=wireshark) ![Reverse_Engineering](https://img.shields.io/badge/-Reverse_Engineering-black?style=flat) |
+| **Languages** | ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-black?style=flat&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) |
+| **System** | ![Linux](https://img.shields.io/badge/-Linux_Kernel-black?style=flat&logo=linux) ![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash) |
+| **Cloud & Ops** | ![Azure](https://img.shields.io/badge/-Microsoft_Azure-black?style=flat&logo=microsoft-azure) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) |
+| **Security** | ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat&logo=wireshark) ![eBPF](https://img.shields.io/badge/-eBPF-black?style=flat) ![Linux_Hardening](https://img.shields.io/badge/-Linux_Hardening-black?style=flat&logo=linux) ![Network_Security](https://img.shields.io/badge/-Network_Security-black?style=flat) |
 
 ### ⚡ What I'm Up To
 * 🔭 **Building:** Adding Heuristic Analysis features to **Kernel-Eye**.
-* 🌱 **Researching:** Advanced Cloud Architecture patterns & Kernel Exploitation.
-* 🐧 **Daily Driver:** Fedora KDE (Customized Zsh & Powerlevel10k).
+* 🌱 **Learning:** Advanced Cloud Architecture patterns & Kernel Exploitation.
+* 🐧 **Daily Driver:** Fedora KDE.
 
 ---
 <p align="left">
