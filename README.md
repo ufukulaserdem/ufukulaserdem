@@ -2,11 +2,14 @@
 
 > **Computer Science Student | Cloud Security & Linux Systems**
 
-I don't just use tools; I build them. Currently focused on **Cloud Security**, **eBPF-based Threat Detection**, and **Low-Level System Architecture**.
+Focused on **Cloud Security**, **eBPF-based Threat Detection**, and **Low-Level System Architecture**.
 
 ### 🛠️ Featured Project
 **[👁️ Kernel-Eye](https://github.com/ufukulaserdem/Kernel-Eye)**
 > *An eBPF-based Kernel-Level EDR Agent covering IDS/IPS capabilities.*
+>
+> ![Kernel-Eye Demo](https://github.com/user-attachments/assets/72b9c6d8-75ed-4a01-8460-6040fd841ce6)
+
 > * **Tech:** Python, C, BPF Ring Buffers.
 > * **Capabilities:** Real-time syscall filtering, process killing, Discord alerting.
 
@@ -22,8 +25,8 @@ I don't just use tools; I build them. Currently focused on **Cloud Security**, *
 | **Security** | ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat&logo=wireshark) ![eBPF](https://img.shields.io/badge/-eBPF-black?style=flat) ![Linux_Hardening](https://img.shields.io/badge/-Linux_Hardening-black?style=flat&logo=linux) ![Network_Security](https://img.shields.io/badge/-Network_Security-black?style=flat) |
 
 ### ⚡ What I'm Up To
-* 🔭 **Building:** Adding Heuristic Analysis features to **Kernel-Eye**.
-* 🌱 **Learning:** Advanced Cloud Architecture patterns & Kernel Exploitation.
+* 🔭 **Building:** Developing heuristics for **Kernel-Eye** and prototyping **Kernel-Eye Zero** (Fileless Malware Research).
+* 🌱 **Learning:** **Rust**, **x86 Assembly**, and Advanced Cloud Architecture patterns.
 * 🐧 **Daily Driver:** Fedora KDE.
 
 ---
