@@ -8,7 +8,7 @@ Focused on **Cloud Security**, **eBPF-based Threat Detection**, and **Low-Level 
 **[👁️ Kernel-Eye](https://github.com/ufukulaserdem/Kernel-Eye)**
 > *An eBPF-based Kernel-Level EDR Agent covering IDS/IPS capabilities.*
 >
-> ![Kernel-Eye Demo](https://github.com/user-attachments/assets/72b9c6d8-75ed-4a01-8460-6040fd841ce6)
+> <img width="100%" alt="kernel-eye_script" src="https://github.com/user-attachments/assets/ae87ca04-8561-453b-8f2a-eac23dcdec02" />
 
 > * **Tech:** Python, C, BPF Ring Buffers.
 > * **Capabilities:** Real-time syscall filtering, process killing, Discord alerting.
