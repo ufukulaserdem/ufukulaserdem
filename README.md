@@ -1,11 +1,11 @@
-# Hi there, I'm Ufuk 👋
+# Hi there, I'm Ufuk
 
 > **Computer Science Student | Cloud Security & Linux Systems**
 
 Focused on **Cloud Security**, **eBPF-based Threat Detection**, and **Low-Level System Architecture**.
 
 ### 🛠️ Featured Project
-**[👁️ Kernel-Eye](https://github.com/ufukulaserdem/Kernel-Eye)**
+**[Kernel-Eye](https://github.com/ufukulaserdem/Kernel-Eye)**
 > *An eBPF-based Kernel-Level EDR Agent covering IDS/IPS capabilities.*
 >
 > <img width="100%" alt="kernel-eye_script" src="https://github.com/user-attachments/assets/ae87ca04-8561-453b-8f2a-eac23dcdec02" />
@@ -15,7 +15,7 @@ Focused on **Cloud Security**, **eBPF-based Threat Detection**, and **Low-Level 
 
 ---
 
-### 💻 Technical Stack
+### Technical Stack
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -24,10 +24,10 @@ Focused on **Cloud Security**, **eBPF-based Threat Detection**, and **Low-Level 
 | **Cloud & Ops** | ![Azure](https://img.shields.io/badge/-Microsoft_Azure-black?style=flat&logo=microsoft-azure) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) |
 | **Security** | ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat&logo=wireshark) ![eBPF](https://img.shields.io/badge/-eBPF-black?style=flat) ![Linux_Hardening](https://img.shields.io/badge/-Linux_Hardening-black?style=flat&logo=linux) ![Network_Security](https://img.shields.io/badge/-Network_Security-black?style=flat) |
 
-### ⚡ What I'm Up To
-* 🔭 **Building:** Developing heuristics for **Kernel-Eye** and prototyping **Kernel-Eye Zero** (Fileless Malware Research).
-* 🌱 **Learning:** **Rust**, **x86 Assembly**, and Advanced Cloud Architecture patterns.
-* 🐧 **Daily Driver:** Fedora KDE.
+### What I'm Up To
+* **Building:** Developing heuristics for **Kernel-Eye** and prototyping **Kernel-Eye Zero** (Fileless Malware Research).
+* **Learning:** **Rust**, **x86 Assembly**, and Advanced Cloud Architecture patterns.
+* **Daily Driver:** Fedora KDE.
 
 ---
 <p align="left">
