@@ -4,7 +4,7 @@
 
 Focused on **Cloud Security**, **eBPF-based Threat Detection**, and **Low-Level System Architecture**.
 
-### 🛠️ Featured Project
+### Featured Project
 **[Kernel-Eye](https://github.com/ufukulaserdem/Kernel-Eye)**
 > *An eBPF-based Kernel-Level EDR Agent covering IDS/IPS capabilities.*
 >
