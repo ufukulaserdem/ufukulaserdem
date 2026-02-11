@@ -8,8 +8,6 @@ Focused on **Cloud Security**, **eBPF-based Threat Detection**, and **Low-Level 
 **[Kernel-Eye](https://github.com/ufukulaserdem/Kernel-Eye)**
 > *An eBPF-based Kernel-Level EDR Agent with Self-Protection capabilities.*
 >
-> <img width="100%" alt="kernel-eye_script" src="https://github.com/user-attachments/assets/ae87ca04-8561-453b-8f2a-eac23dcdec02" />
-
 > * **Tech:** Python (BCC), C (eBPF), Linux Security Modules (LSM).
 > * **Capabilities:** Real-time syscall filtering, **Anti-Tamper (Immortal Mode)**, Anti-Spoofing, and Fileless Threat Detection.
 
