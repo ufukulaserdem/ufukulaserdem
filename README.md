@@ -17,7 +17,7 @@ Focused on **Cloud Security**, **eBPF-based Threat Detection**, and **Low-Level 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-black?style=flat&logo=c%2B%2B) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![Assembly](https://img.shields.io/badge/-Assembly-black?style=flat) |
+| **Languages** | ![C/C++](https://img.shields.io/badge/-C%2FC%2B%2B-black?style=flat&logo=c%2B%2B) ![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) |
 | **System** | ![Linux](https://img.shields.io/badge/-Linux_Kernel-black?style=flat&logo=linux) ![Bash](https://img.shields.io/badge/-Bash-black?style=flat&logo=gnu-bash) |
 | **Cloud & Ops** | ![Azure](https://img.shields.io/badge/-Microsoft_Azure-black?style=flat&logo=microsoft-azure) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git) ![Actions](https://img.shields.io/badge/-GitHub_Actions-black?style=flat&logo=github-actions) |
 | **Security** | ![LSM](https://img.shields.io/badge/-LSM_BPF-black?style=flat) ![eBPF](https://img.shields.io/badge/-eBPF-black?style=flat) ![Linux_Hardening](https://img.shields.io/badge/-Linux_Hardening-black?style=flat&logo=linux) ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat&logo=wireshark) |
