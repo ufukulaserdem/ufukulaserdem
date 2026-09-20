@@ -22,4 +22,4 @@ I work at the OS level — building kernel security tooling on Linux and studyin
 
 ---
 
-[[X](https://x.com/ufukulaserdem)] · [[LinkedIn](https://linkedin.com/in/ufukulaserdem)] · [[Mail](mailto:mainufukulaserdem@gmail.com)]
+[ [X](https://x.com/ufukulaserdem) ] · [ [LinkedIn](https://linkedin.com/in/ufukulaserdem) ] · [ [Mail](mailto:mainufukulaserdem@gmail.com) ]
