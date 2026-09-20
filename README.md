@@ -19,7 +19,3 @@ I work at the OS level — building kernel security tooling on Linux and studyin
 ### Featured Project
 
 **[Kernel-Eye](https://github.com/ufukulaserdem/Kernel-Eye)** — Kernel-level Linux EDR agent prototype. LKM-free runtime protection using `#![no_std]` Rust, Aya eBPF, and LSM hooks. Synchronous file access control, anti-tamper self-defense, and structured JSON telemetry.
-
----
-
-[ [X](https://x.com/ufukulaserdem) ] · [ [LinkedIn](https://linkedin.com/in/ufukulaserdem) ] · [ [Mail](mailto:mainufukulaserdem@gmail.com) ]
