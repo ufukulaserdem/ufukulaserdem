@@ -1,21 +1,9 @@
 # Ufuk Ulaş Erdem
 
-**Systems Security Engineer | OS Internals & Threat Detection**
+I’m interested in Linux kernel security and endpoint threat detection. I enjoy studying OS internals and building security tools in Rust and C.
 
-I work at the OS level — building kernel security tooling on Linux and studying the adversary tradecraft that targets it. My focus is on how threats operate inside the OS: syscall manipulation, process injection, EDR evasion. Understanding Windows internals is part of that — you can't build good detection without knowing how attacks work.
+## What I Work On
 
-**Core stack:** C · Rust · Python · x86_64 Assembly · eBPF
-
----
-
-### What I Work On
-
-- **Linux kernel security** — eBPF, LSM hooks, rootkit detection, system tracing
-- **Windows malware internals** — API hashing, PEB/EAT traversal, syscall evasion, ETW abuse
-- **Detection engineering** — control flow hijacking detection, sandbox evasion analysis, threat simulation
-
----
-
-### Featured Project
-
-**[Kernel-Eye](https://github.com/ufukulaserdem/Kernel-Eye)** — Kernel-level Linux EDR agent prototype. LKM-free runtime protection using `#![no_std]` Rust, Aya eBPF, and LSM hooks. Synchronous file access control, anti-tamper self-defense, and structured JSON telemetry.
+- **Linux kernel security** — How LSM hooks make access decisions and how eBPF programs report those decisions to user space.
+- **Windows memory analysis** — What memory protections and pointers between regions can reveal about a running process.
+- **Detection engineering** — Testing what a tool can actually observe and how much evidence an alert gives an analyst.
